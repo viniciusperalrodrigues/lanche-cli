@@ -3,7 +3,7 @@
 - Projeto desenvolvido em angular 4 com boostrap, PrimeNg e angular cli.
 As tecnologias acima combinadas, agilizam os processos de desenvolvimento, por não ter que ficar criando componentes, sendo um framework fácil entendimento a implementação rápida.
 
-#Pré Requisitos
+# Pré Requisitos
 - Possuir nginx instalado.
 - Possuir npm instalado.
 
